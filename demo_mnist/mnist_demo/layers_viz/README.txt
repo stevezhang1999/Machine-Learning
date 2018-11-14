@@ -1,1 +1,0 @@
-一共记录了两次可视化结果，分别是relu+max_looling和sigmoid+average_pooling。
